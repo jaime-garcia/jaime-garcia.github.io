@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2014-06-05
+comments: true
 categories: aboutme
 ---
 
