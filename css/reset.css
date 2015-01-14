@@ -1,0 +1,7 @@
+body, h1, h2, h3, h4, div, span, p, ul, li, ol, a {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-size: 1em;
+}

@@ -1,0 +1,18 @@
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+
+body {
+  color: $mainForeground;
+  font-family: $mainFontFamily;
+  font-size: $baseFontSize;
+}
+
+body, a, p, div, span, li {
+  line-height: 1.5em;
+}
+
+a, a:visited {
+  color: $mainLinkForeground;
+}
